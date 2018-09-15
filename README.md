@@ -1,5 +1,6 @@
 # DataScienceTrack
-HackRice 7.5 - Data Science Track
+HackRice 8 - Data Science Track
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ricedatasci/datascience-track-hackrice8.git/master) 
 
 ## Introduction
 
